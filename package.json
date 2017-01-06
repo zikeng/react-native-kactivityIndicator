@@ -1,0 +1,29 @@
+{
+  "name": "react-native-kactivityindicator",
+  "version": "1.0.0",
+  "description": "A simple plugin for react-native that allows you to show a loading spinner and a message in your Android/iOS react-native’s app.",
+  "main": "KActivityIndicator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zikeng/react-native-zikactivityIndicator.git"
+  },
+  "keywords": [
+    "react-native",
+    "loading",
+    "activityIndicator"
+  ],
+  "author": "zikeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zikeng/react-native-kactivityIndicator/issues"
+  },
+  "homepage": "https://github.com/zikeng/react-native-kactivityIndicator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    
+  }
+}
